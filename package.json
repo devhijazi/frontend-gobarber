@@ -2,7 +2,6 @@
   "name": "go-barber-web",
   "version": "0.1.0",
   "private": true,
-
   "scripts": {
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
@@ -32,6 +31,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-dropzone": "^10.2.2",
+    "react-icons": "^3.11.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1",
     "styled-components": "^5.1.0",
