@@ -6,6 +6,7 @@ interface TooltipProps {
   title: string;
   className?: string;
 }
+
 const Tooltip: React.FC<TooltipProps> = ({
   title,
   className = '',
@@ -18,4 +19,5 @@ const Tooltip: React.FC<TooltipProps> = ({
     </Container>
   );
 };
+
 export default Tooltip;
