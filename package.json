@@ -18,7 +18,7 @@
     "date-fns": "^2.13.0",
 
 
-    "polished": "^3.5.1",
+    "polished": "4.1.2",
 
     "react": "16.14.0",
     "react-day-picker": "^7.4.8",
