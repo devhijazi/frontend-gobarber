@@ -27,7 +27,7 @@
     "react-router-dom": "5.1.2",
     "react-scripts": "4.0.3",
     "react-spring": "8.0.27",
-    "styled-components": "5.1.0",
+    "styled-components": "5.3.0",
     "typescript": "3.7.7",
     "uuidv4": "6.2.7",
     "yup": "0.28.3"
@@ -67,7 +67,7 @@
     "@testing-library/react-hooks": "3.7.0",
     "@types/react-router-dom": "5.1.7",
 
-    "@types/styled-components": "5.1.0",
+    "@types/styled-components": "5.1.9",
     "@types/yup": "0.26.36",
 
     "@typescript-eslint/eslint-plugin": "2.34.0",
