@@ -78,7 +78,7 @@
     "@typescript-eslint/parser": "4.24.0",
     "axios-mock-adapter": "1.19.0",
 
-    "eslint": "7.26.0",
+    "eslint": "7.27.0",
 
     "eslint-config-airbnb": "18.2.1",
 
