@@ -17,7 +17,7 @@
     "@unform/web": "2.1.6",
     "axios": "0.22.0",
 
-    "date-fns": "2.24.0",
+    "date-fns": "2.25.0",
 
 
     "polished": "4.1.3",
